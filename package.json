@@ -1,6 +1,6 @@
 {
   "homepage": "https://bocar90.github.io/Portfolio",
-  "name": "personal-portfolio",
+  "name": "Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -51,7 +51,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0",
-    "react-scripts": "^5.0.1"
+    "gh-pages": "^5.0.0"
   }
 }
